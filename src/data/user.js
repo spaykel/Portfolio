@@ -64,7 +64,7 @@ const INFO = {
 			title: "Virtual World Simulator",
 			description:
 				"Utilized Java and OOP principles to create a simulation of a medieval town, including multiple entities that move using an A-star pathfinding algorithm. Users can interact with the world through clicking, to which the entities dynamically respond.",
-			logo: "https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png",
+			logo: "https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png",
 			linkText: "View Project",
 			link: "https://github.com/vrivera-cp/csc203-project05-spaykel",
 		},
