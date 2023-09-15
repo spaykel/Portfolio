@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/reactfolio-master/static/css/main.8b102397.css",
-    "main.js": "/reactfolio-master/static/js/main.9ca03a3a.js",
-    "static/js/787.512dd3f2.chunk.js": "/reactfolio-master/static/js/787.512dd3f2.chunk.js",
-    "index.html": "/reactfolio-master/index.html",
-    "main.8b102397.css.map": "/reactfolio-master/static/css/main.8b102397.css.map",
-    "main.9ca03a3a.js.map": "/reactfolio-master/static/js/main.9ca03a3a.js.map",
-    "787.512dd3f2.chunk.js.map": "/reactfolio-master/static/js/787.512dd3f2.chunk.js.map"
+    "main.css": "/spaykel.github.io/static/css/main.8b102397.css",
+    "main.js": "/spaykel.github.io/static/js/main.82795a65.js",
+    "static/js/787.512dd3f2.chunk.js": "/spaykel.github.io/static/js/787.512dd3f2.chunk.js",
+    "index.html": "/spaykel.github.io/index.html",
+    "main.8b102397.css.map": "/spaykel.github.io/static/css/main.8b102397.css.map",
+    "main.82795a65.js.map": "/spaykel.github.io/static/js/main.82795a65.js.map",
+    "787.512dd3f2.chunk.js.map": "/spaykel.github.io/static/js/787.512dd3f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8b102397.css",
-    "static/js/main.9ca03a3a.js"
+    "static/js/main.82795a65.js"
   ]
 }
