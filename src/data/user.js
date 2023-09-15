@@ -50,6 +50,24 @@ const INFO = {
 			linkText: "View Project",
 			link: "https://github.com/spaykel/spaykel.github.io",
 		},
+
+		{
+			title: "Huffman Encoder and Decoder",
+			description:
+				"Designed a file compressor and expander using the Huffman encoding algorithm, implemented with Python. Built an ordered linked list structure that transformed into a binary tree to create compressed codes for letters.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+			linkText: "View Project",
+			link: "https://github.com/spaykel/PythonHuffman",
+		},
+
+		{
+			title: "Virtual World Simulator",
+			description:
+				"Utilized Java and OOP principles to create a simulation of a medieval town, including multiple entities that move using an A-star pathfinding algorithm. Users can interact with the world through clicking, to which the entities dynamically respond.",
+			logo: "https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png",
+			linkText: "View Project",
+			link: "https://github.com/vrivera-cp/csc203-project05-spaykel",
+		},
 	],
 };
 
