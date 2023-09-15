@@ -45,7 +45,7 @@ const INFO = {
 		{
 			title: "Personal Portfolio Website",
 			description:
-				"The website you're looking at now!",
+				"The website you're looking at now! Made with React.js, utilizing a HashRouter router dom.",
 			logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png",
 			linkText: "View Project",
 			link: "https://github.com/spaykel/spaykel.github.io",
