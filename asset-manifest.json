@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/spaykel.github.io/static/css/main.8b102397.css",
-    "main.js": "/spaykel.github.io/static/js/main.925df11d.js",
-    "static/js/787.512dd3f2.chunk.js": "/spaykel.github.io/static/js/787.512dd3f2.chunk.js",
-    "index.html": "/spaykel.github.io/index.html",
-    "main.8b102397.css.map": "/spaykel.github.io/static/css/main.8b102397.css.map",
-    "main.925df11d.js.map": "/spaykel.github.io/static/js/main.925df11d.js.map",
-    "787.512dd3f2.chunk.js.map": "/spaykel.github.io/static/js/787.512dd3f2.chunk.js.map"
+    "main.css": "/static/css/main.8b102397.css",
+    "main.js": "/static/js/main.ca2e9d87.js",
+    "static/js/787.512dd3f2.chunk.js": "/static/js/787.512dd3f2.chunk.js",
+    "index.html": "/index.html",
+    "main.8b102397.css.map": "/static/css/main.8b102397.css.map",
+    "main.ca2e9d87.js.map": "/static/js/main.ca2e9d87.js.map",
+    "787.512dd3f2.chunk.js.map": "/static/js/787.512dd3f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8b102397.css",
-    "static/js/main.925df11d.js"
+    "static/js/main.ca2e9d87.js"
   ]
 }
