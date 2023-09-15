@@ -118,6 +118,12 @@
 		order: 3;
 	}
 
+	.homepage-socials {
+		margin-top: 60px;
+		display: flex;
+    	justify-content: center;
+	}
+
 	.homepage-first-area-right-side {
 		width: 100%;
 		order: 1;
