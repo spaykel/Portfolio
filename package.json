@@ -1,12 +1,10 @@
 {
-	"homepage": "http://spaykel.github.io/reactfolio-master",
 	"name": "reactfolio",
 	"version": "1.1.0",
 	"description": "Personal portfolio built using Reactjs",
 	"author": {
 		"name": "Sammy Paykel",
-		"email": "sameerpaykel@gmail.com",
-		"url": "https://tharindu.dev"
+		"email": "sameerpaykel@gmail.com"
 	},
 	"license": "",
 	"private": true,
@@ -32,9 +30,7 @@
 		"start": "react-scripts start",
 		"build": "react-scripts build",
 		"test": "react-scripts test",
-		"eject": "react-scripts eject",
-		"predeploy": "npm run build",
-		"deploy": "gh-pages -d build"
+		"eject": "react-scripts eject"
 	},
 	"eslintConfig": {
 		"extends": [
