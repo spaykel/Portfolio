@@ -48,7 +48,7 @@ const INFO = {
 				"The website you're looking at now!",
 			logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/spaykel/spaykel.github.io",
 		},
 	],
 };
