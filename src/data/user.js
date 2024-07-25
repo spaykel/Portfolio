@@ -25,6 +25,15 @@ const INFO = {
 
 	projects: [
 		{
+			title: "Custom Programming Language",
+			description:
+				"Built a proprietary functional programming language called Zode that combines elements of Racket, Python, and C. Created multiple versions of Zode, including typed and untyped, mutable and immutable, and environmental. Developed a parser and interpreter for this language.",
+			logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Racket-logo.svg/1200px-Racket-logo.svg.png",
+			linkText: "View Project",
+			link: "https://github.com/spaykel/zode",
+		},
+		
+		{
 			title: "Fraternity Mobile App",
 			description:
 				"Collaborated with fraternity brothers to create a custom mobile application, built on a React Native w/ Typescript framework. Github repository below",
