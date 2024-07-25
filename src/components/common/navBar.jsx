@@ -48,6 +48,15 @@ const NavBar = (props) => {
 							>
 								<Link to="/contact">Contact</Link>
 							</li>
+							<li
+								className={
+									active === "Poly Purity"
+										? "nav-item active"
+										: "nav-item"
+								}
+							>
+								<Link to="/polypuritytest">Poly Purity</Link>
+							</li>
 						</ul>
 					</div>
 				</nav>
